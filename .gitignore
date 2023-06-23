@@ -132,3 +132,7 @@ node_modules
 
 # Migrations
 */migrations/*
+
+# Ignore launch configuration files
+.vscode/*.launch
+.vscode/*.json
